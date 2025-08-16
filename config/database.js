@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const MONGODB_URI = 'mongodb+srv://MSUmail:database123455@cluster0.to4jdd4.mongodb.net/FacemaskDB?retryWrites=true&w=majority';
+const MONGODB_URI = 'mongodb+srv://MSUmail:lwHC4OwGxyfbuZED@cluster0.to4jdd4.mongodb.net/FacemaskDB?retryWrites=true&w=majority';
 
 
 const connectDB = async () => {
